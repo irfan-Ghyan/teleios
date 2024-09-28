@@ -11,7 +11,7 @@ const DomePit = () => {
 
   return (
     <div className="relative w-full max-w-full overflow-hidden h-[750px] sm:h-[600px] md:h-[500px] lg:h-[600px] xl:h-[785px] bg-cover bg-right lg:bg-center px-4" style={{ backgroundImage: "url('/assets/images/dome/s-dome12.jpg')" }}>
-      <div className='w-full bg-[#11072C] bg-opacity-80 lg:bg-opacity-0 md:bg-opacity-0 xl:bg-opacity-0 px-4'>
+      <div className='w-full bg-[#11072C] bg-opacity-60 lg:bg-opacity-0 md:bg-opacity-0 xl:bg-opacity-0 px-4'>
  <div className="bottom-0 px-4 md:flex md:flex-col md:pr-6 py-[25px] lg:py-[100px] max-w-7xl mx-auto mt-[200px] sm:mt-0 md:mt-0 lg:mt-0 xl:mt-0">
    <div className=' px-4 flex flex-col justify-between md:mt-[36px] md:mb-[41px]'>
      {domes.map((dome, index) => (

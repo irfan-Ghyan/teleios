@@ -65,7 +65,7 @@ const EducationData = () => {
 
 
   return (
-    <div className=" w-full max-w-full overflow-hidden lg:h-[400px] xl:h-[685px] bg-cover bg-right lg:bg-center " style={{ backgroundImage: "url('/assets/images/education/s-bg1.png')" }}>
+    <div className=" w-full max-w-full overflow-hidden lg:h-[435px] xl:h-[685px] bg-cover bg-right lg:bg-center " style={{ backgroundImage: "url('/assets/images/education/s-bg1.png')" }}>
       
       <div className='w-full  px-4 '>
       <div className="inset-0 px-4 md:flex md:flex-col  md:pr-6 xl:py-[20px] md:px-8 max-w-7xl mx-auto my-10 md:my-0 lg:my-0 xl:my-0">

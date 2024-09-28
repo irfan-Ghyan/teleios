@@ -331,7 +331,7 @@ const Form = () => {
               className="mt-1 p-4 block w-full xl:w-[646px] bg-[#2C1864C2] text-white py-[10px] focus:outline-none focus:ring-0 focus:bg-[#1a1a2e] focus:text-[#ffffff]"
               value={formData.hearAboutUs}
               onChange={handleChange}
-              required
+             
             >
               <option
                 value=""
