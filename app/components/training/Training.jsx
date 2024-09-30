@@ -49,7 +49,7 @@ import Link from 'next/link';
 
 const Training = () => {
   return (
-    <div className="training-section w-full max-w-full overflow-hidden lg:h-[650px] xl:h-[885px] bg-cover bg-right lg:bg-center px-4" 
+    <div className="training-section w-full max-w-full overflow-hidden lg:h-[650px] xl:h-[885px] bg-cover bg-right lg:bg-center px-4 md:px-0 lg:px-0 xl:px-0" 
          style={{ backgroundImage: "url('/assets/images/training/bg-3.png')" }}
     >
       <div className='w-full bg-[#11072C] bg-opacity-80 lg:bg-opacity-0 md:bg-opacity-60 xl:bg-opacity-0 px-4 mt-[230px] sm:mt-0 md:mt-0 lg:mt-0 xl:mt-0'>
