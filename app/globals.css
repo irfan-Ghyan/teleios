@@ -534,3 +534,10 @@ border: none !important;
     width: 320px; /* Width for screens with max 400px */
   }
 }
+
+
+@media (max-width: 932px) {
+  .max-w-custom {
+    max-width: 43rem;
+  }
+}

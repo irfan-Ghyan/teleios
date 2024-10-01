@@ -258,7 +258,7 @@ const Header = () => {
 
   // Scroll to target section when down arrow is clicked
   const scrollToSection = () => {
-    const targetSection = document.getElementById('target-section'); // Replace with your target section ID
+    const targetSection = document.getElementById('target-section'); 
     if (targetSection) {
       targetSection.scrollIntoView({ behavior: 'smooth' });
     }
@@ -354,7 +354,7 @@ const Header = () => {
         {/* Corprate Component Popup */}
         {showCorpratePopup && (
           <div className="fixed inset-0 bg-[#11072C] bg-opacity-100 z-50 flex items-center justify-center p-4">
-            <div className="relative w-full max-w-7xl bg-white px-4 py-4 rounded-lg">
+            <div className="relative w-full max-w-7xl bg-white px-4 py-4 rounded-lg max-w-custom">
               <button
                 className="absolute top-2 right-2 text-black text-2xl"
                 onClick={handleClosePopup}
