@@ -11,7 +11,7 @@ const Coaching = () => {
 
 
   return (
-    <div className="w-full max-w-full overflow-hidden lg:h-[750px] xl:h-[850px] bg-cover bg-right xl:bg-center px-4 sm:px-0 md:px-0 lg:px-0 xl:px-0" style={{ backgroundImage: "url('/assets/images/experience/S7.jpg')" }}>
+    <div className="w-full max-w-full overflow-hidden lg:h-[750px] xl:h-[850px] bg-cover bg-right px-4 sm:px-0 md:px-0 lg:px-0 xl:px-0" style={{ backgroundImage: "url('/assets/images/experience/S8.png')" }}>
         <div className='w-full bg-[#11072C] bg-opacity-60 xl:bg-opacity-0 px-4'>
       <div className="inset-0 flex flex-col md:flex-row md:items-center md:justify-end px-4 md:pr-6 py-[20px] mt-[240px] sm:mt-[0px] md:mt-[0px] lg:mt-[0px] xl:mt-[0px] sm:pt-[100px] md:pt-[100px] lg:py-[100px] md:px-8  max-w-7xl mx-auto ">
       <div className="w-full flex flex-col">
