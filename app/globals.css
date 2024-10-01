@@ -519,19 +519,19 @@ border: none !important;
 
 @media (max-width: 430px) {
   .profile-container {
-    width: 369px; /* Width for screens with max 430px */
+    width: 369px; 
   }
 }
 
 @media (max-width: 414px) {
   .profile-container {
-    width: 362px; /* Width for screens with max 414px */
+    width: 362px; 
   }
 }
 
 @media (max-width: 400px) {
   .profile-container {
-    width: 320px; /* Width for screens with max 400px */
+    width: 320px; 
   }
 }
 

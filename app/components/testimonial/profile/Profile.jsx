@@ -40,7 +40,6 @@ const Profile = ({ imageUrl, title, rating, description }) => {
               <span className="text-white font-jura font-bold text-[18px] pl-2">
                 {rating}
               </span>
-              <span className="text-white">4.8</span>
             </div>
           </div>
         </div>
