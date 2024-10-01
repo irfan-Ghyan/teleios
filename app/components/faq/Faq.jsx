@@ -370,7 +370,7 @@ const Faq = () => {
           Other Questions?
         </h1>
         <p className="text-[24px] md:text-[18px] text-white font-bold font-jura">
-          <Link href="/enquiry-form" className='underline'>
+          <Link href="https://feverup.com/m/187813" target="_blank" rel="noopener noreferrer" className='underline'>
             Contact us
           </Link>{' '}
           for more information or assistance with your booking. We look forward
