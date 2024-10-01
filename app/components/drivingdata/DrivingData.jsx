@@ -75,7 +75,7 @@ const DrivingData = () => {
 
   return (
     <div
-      className="w-full max-w-full overflow-hidden lg:h-[435px] xl:h-[685px] bg-cover bg-left lg:bg-center " style={{ backgroundImage: "url('/assets/images/education/s-bg2.png')" }}
+      className="w-full max-w-full overflow-hidden lg:h-[435px] xl:h-[685px] bg-cover bg-left lg:bg-left xl:bg-center " style={{ backgroundImage: "url('/assets/images/education/s-bg2.png')" }}
     >
       <div className='w-full px-4  '>
       <div className="inset-0 flex flex-col md:flex-row md:items-center md:justify-end px-4 md:pr-6 xl:py-[20px] md:px-8 max-w-7xl mx-auto my-10 md:my-0 lg:my-0 xl:my-0">
