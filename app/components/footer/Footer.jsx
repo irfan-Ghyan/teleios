@@ -137,7 +137,7 @@
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
-import logo from '../../../public/assets/images/logo.png';
+import logo from '../../../public/assets/images/teleiosimages/logo.png';
 import RotatingHeadings from '../header/rotatingheading/RotatingHeading';
 
 const Footer = () => {
